@@ -1,5 +1,14 @@
 # bolt-lang
 
+<p align="left">
+  <img src="https://github.com/4aru5h/bolt-lang/actions/workflows/deploy.yml/badge.svg" alt="Deploy to GitHub Pages" />
+  <img src="https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Monaco_Editor-0.45-blue?logo=visualstudiocode&logoColor=white" alt="Monaco Editor" />
+  <img src="https://img.shields.io/badge/Tests-Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License" />
+</p>
+
+
 Bolt is a toy programming language built from scratch in TypeScript, featuring an interactive web-based playground with a Monaco code editor, Web Worker sandboxing, and live terminal output.
 
 It combines C-style curly braces and mandatory semicolons with dynamic typing and expression-oriented syntax.
