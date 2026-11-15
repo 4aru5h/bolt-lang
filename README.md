@@ -1,6 +1,6 @@
 # bolt-lang
 
-A toy dynamically typed programming language built from scratch in TypeScript. I built this to understand how lexers, operator precedence climbing, and AST tree-walking interpreters work under the hood.
+A toy dynamically typed programming language built from scratch in TypeScript. I built this to understand how lexers, operator precedence climbing, and AST tree-walking interpreters function under the hood.
 
 It features an in-browser playground powered by Monaco Editor and runs inside a Web Worker sandbox with terminal streaming.
 
